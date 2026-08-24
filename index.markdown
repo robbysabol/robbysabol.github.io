@@ -55,7 +55,7 @@
 
   <div>
     <img src="/assets/images/Reptile_left_top_side_view_textured.png" alt="Reptile_left_top_side_view_textured.png" style="width:100%; border-radius:8px;">
-    <h3>Santas_Workshop.png</h3>
+    <h3>Reptile_left_top_side_view_textured.png</h3>
     <!-- <p>Short description.</p> -->
   </div>
 
