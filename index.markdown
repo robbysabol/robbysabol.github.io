@@ -20,24 +20,6 @@
   </div>
 
   <div>
-    <img src="/assets/images/Reptile_Smooth_Shading_Top_View_Textured.png" alt="Reptile_Smooth_Shading_Top_View_Textured.png" style="width:100%; border-radius:8px;">
-    <h3>Reptile_Smooth_Shading_Top_View_Textured.png</h3>
-    <p>Short description.</p>
-  </div>
-
-  <div>
-    <img src="/assets/images/Reptile_left_top_side_view_textured.png" alt="Reptile_left_top_side_view_textured.png" style="width:100%; border-radius:8px;">
-    <h3>Santas_Workshop.png</h3>
-    <p>Short description.</p>
-  </div>
-
-  <div>
-    <img src="/assets/images/Reptile_right_top_side_view_textured.png" alt="Reptile_right_top_side_view_textured.png" style="width:100%; border-radius:8px;">
-    <h3>Reptile_right_top_side_view_textured.png</h3>
-    <p>Short description.</p>
-  </div>
-
-  <div>
     <img src="/assets/images/Rudolph_Parents_Cave.png" alt="Rudolph_Parents_Cave.png" style="width:100%; border-radius:8px;">
     <h3>Rudolph_Parents_Cave.png</h3>
     <p>Short description.</p>
@@ -64,6 +46,24 @@
   <div>
     <img src="/assets/images/Student_Desks.png" alt="Student_Desks.png" style="width:100%; border-radius:8px;">
     <h3>Student_Desks.png</h3>
+    <p>Short description.</p>
+  </div>
+
+  <div>
+    <img src="/assets/images/Reptile_Smooth_Shading_Top_View_Textured.png" alt="Reptile_Smooth_Shading_Top_View_Textured.png" style="width:100%; border-radius:8px;">
+    <h3>Reptile_Smooth_Shading_Top_View_Textured.png</h3>
+    <p>Short description.</p>
+  </div>
+
+  <div>
+    <img src="/assets/images/Reptile_left_top_side_view_textured.png" alt="Reptile_left_top_side_view_textured.png" style="width:100%; border-radius:8px;">
+    <h3>Santas_Workshop.png</h3>
+    <p>Short description.</p>
+  </div>
+
+  <div>
+    <img src="/assets/images/Reptile_right_top_side_view_textured.png" alt="Reptile_right_top_side_view_textured.png" style="width:100%; border-radius:8px;">
+    <h3>Reptile_right_top_side_view_textured.png</h3>
     <p>Short description.</p>
   </div>
 
