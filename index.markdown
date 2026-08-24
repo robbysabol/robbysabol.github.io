@@ -97,7 +97,7 @@
     display: none;
     position: fixed;
     inset: 0;
-    background: transparent;
+    background: rgba(0,0,0,10);
     z-index: 999;
     justify-content: center;
     align-items: center;
@@ -106,6 +106,7 @@
   #lightbox img {
     max-width: 75%;
     max-height: 75%;
+    hover: none;
   }
 
     .anchorjs-link {
