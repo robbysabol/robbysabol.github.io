@@ -106,7 +106,10 @@
   #lightbox img {
     max-width: 85%;
     max-height: 85%;
-    hover: none;
+  }
+
+  #lightbox img:hover {
+    transform: none;
   }
 
     .anchorjs-link {
