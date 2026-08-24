@@ -2,8 +2,7 @@
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin: 2rem 0;">
 
-## Interiors & Exteriors
-
+<h2 style="grid-column: 1 / -1;">Interiors & Exteriors</h2>
   <div>
     <img src="/assets/images/Dining_Table_and_Room.png" alt="Dining_Table_and_Room.png" style="width:100%; border-radius:8px;">
     <h3>Dining_Table_and_Room.png</h3>
@@ -46,7 +45,7 @@
     <!-- <p>Short description.</p> -->
   </div>
 
-## Characters
+<h2 style="grid-column: 1 / -1;">Characters</h2>
 
   <div>
     <img src="/assets/images/Reptile_Smooth_Shading_Top_View_Textured.png" alt="Reptile_Smooth_Shading_Top_View_Textured.png" style="width:100%; border-radius:8px;">
