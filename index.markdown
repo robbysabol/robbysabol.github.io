@@ -1,11 +1,8 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-
-## Blender 3D Renders
+# Blender 3D Renders
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin: 2rem 0;">
+
+## Interiors & Exteriors
 
   <div>
     <img src="/assets/images/Dining_Table_and_Room.png" alt="Dining_Table_and_Room.png" style="width:100%; border-radius:8px;">
@@ -48,6 +45,8 @@
     <h3>Student_Desks.png</h3>
     <p>Short description.</p>
   </div>
+
+## Characters
 
   <div>
     <img src="/assets/images/Reptile_Smooth_Shading_Top_View_Textured.png" alt="Reptile_Smooth_Shading_Top_View_Textured.png" style="width:100%; border-radius:8px;">
