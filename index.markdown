@@ -79,6 +79,24 @@
 
 </div>
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem; margin: 2rem 0;">
+
+  <div>
+    <video controls style="width:100%; border-radius:8px;">
+      <source src="/assets/videos/Reptile_Preview.mp4" type="video/mp4">
+    </video>
+    <h3>Reptile Preview</h3>
+  </div>
+
+  <div>
+    <video controls style="width:100%; border-radius:8px;">
+      <source src="/assets/videos/Two_Boys_Preview.mp4" type="video/mp4">
+    </video>
+    <h3>Two Boys Preview</h3>
+  </div>
+
+</div>
+
 ---
 
 ---
