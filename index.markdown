@@ -77,6 +77,12 @@
     <!-- <p>Short description.</p> -->
   </div>
 
+  <div>
+    <img src="/assets/images/Two_Boys_Solid_Smooth_Shading_Front_View.png" alt="Two_Boys_Solid_Smooth_Shading_Front_View.png" style="width:100%; border-radius:8px;">
+    <h3>Two Boys Solid Smooth Shading T-Pose Front View</h3>
+    <!-- <p>Short description.</p> -->
+  </div>
+
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem; margin: 2rem 0;">
