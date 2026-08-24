@@ -104,8 +104,8 @@
     cursor: zoom-out;
   }
   #lightbox img {
-    max-width: 75%;
-    max-height: 75%;
+    max-width: 85%;
+    max-height: 85%;
     hover: none;
   }
 
