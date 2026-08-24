@@ -97,7 +97,7 @@
     display: none;
     position: fixed;
     inset: 0;
-    background: rgba(0,0,0,0.9);
+    background: transparent;
     z-index: 999;
     justify-content: center;
     align-items: center;
