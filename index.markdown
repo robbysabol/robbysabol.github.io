@@ -89,7 +89,7 @@
     transition: transform 0.3s ease;
   }
   img:hover {
-    transform: scale(1.5);
+    transform: scale(1.12);
     z-index: 10;
     position: relative;
   }
@@ -104,8 +104,8 @@
     cursor: zoom-out;
   }
   #lightbox img {
-    max-width: 90%;
-    max-height: 90%;
+    max-width: 70%;
+    max-height: 70%;
   }
 
     .anchorjs-link {
