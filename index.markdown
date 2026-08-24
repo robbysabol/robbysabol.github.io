@@ -78,3 +78,46 @@
   </div>
 
 </div>
+
+---
+
+---
+
+<style>
+  img {
+    cursor: pointer;
+    transition: transform 0.3s ease;
+  }
+  img:hover {
+    transform: scale(1.5);
+    z-index: 10;
+    position: relative;
+  }
+  #lightbox {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.9);
+    z-index: 999;
+    justify-content: center;
+    align-items: center;
+    cursor: zoom-out;
+  }
+  #lightbox img {
+    max-width: 90%;
+    max-height: 90%;
+  }
+</style>
+
+<div id="lightbox" onclick="this.style.display='none'">
+  <img id="lightbox-img">
+</div>
+
+<script>
+  document.querySelectorAll('img').forEach(img => {
+    img.onclick = () => {
+      document.getElementById('lightbox-img').src = img.src;
+      document.getElementById('lightbox').style.display = 'flex';
+    };
+  });
+</script>
