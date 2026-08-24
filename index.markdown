@@ -38,8 +38,8 @@
     <h3>Shelf Dishes</h3>
    <!-- <p>Short description.</p> -->
   </div>
-
-  <div>
+ 
+<div class="disabled">
     <img src="/assets/images/Student_Desks.png" alt="Student_Desks.png" style="width:100%; border-radius:8px;">
     <h3>Student Desks</h3>
     <!-- <p>Short description.</p> -->
