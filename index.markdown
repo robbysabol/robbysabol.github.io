@@ -20,8 +20,8 @@
   </div>
 
   <div>
-    <img src="/assets/images/Rudolph_Parents_Cave.png" alt="Rudolph_Parents_Cave.png" style="width:100%; border-radius:8px;">
-    <h3>Rudolph_Parents_Cave.png</h3>
+    <img src="/assets/images/Forest_Cave.png" alt="Forest_Cave.png" style="width:100%; border-radius:8px;">
+    <h3>Forest_Cave.png</h3>
     <p>Short description.</p>
   </div>
 
