@@ -133,6 +133,10 @@
     .anchorjs-link {
     display: none !important;
   }
+
+  .disabled {
+    display: none;
+  }
 </style>
 
 <div id="lightbox" onclick="this.style.display='none'">
