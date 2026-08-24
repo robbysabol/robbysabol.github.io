@@ -23,7 +23,7 @@
 
   <div>
     <img src="/assets/images/Santas_Workshop.png" alt="Santas_Workshop.png" style="width:100%; border-radius:8px;">
-    <h3>Santas Workshop</h3>
+    <h3>Santa's Workshop</h3>
     <!-- <p>Short description.</p> -->
   </div>
 
