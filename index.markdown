@@ -107,6 +107,10 @@
     max-width: 90%;
     max-height: 90%;
   }
+
+    .anchorjs-link {
+    display: none !important;
+  }
 </style>
 
 <div id="lightbox" onclick="this.style.display='none'">
