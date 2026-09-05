@@ -1,9 +1,12 @@
-<h1>
+<h1 style="font-size: 3.5rem;">
   Blender 3D Renders
-  <span style="display: block; color: #666; font-size: 1.3rem; font-style: italic; font-weight: normal;">
-    Analogous results can also be reproduced by me in 3ds Max and other 3D software.
-  </span>
 </h1>
+
+<br>
+
+<div style="color: #6666; font-size: 1.3rem; font-style: italic;">
+  Analogous results can also be reproduced by me in 3ds Max and other 3D software.
+</div>
 
 
 
