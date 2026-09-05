@@ -11,7 +11,7 @@
 
 
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin: 2rem 0;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 2rem 0;">
 
 <h2 style="grid-column: 1 / -1; font-size: 2.3rem;">Interiors & Exteriors</h2>
   <div>
