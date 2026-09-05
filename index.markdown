@@ -1,6 +1,6 @@
-<div style="font-size: 3.5rem; font-weight: 700; line-height: 1.1;">
+<div style="font-size: 3.5rem; font-weight: 700; line-height: 1.1; width: 66vw; margin-left: calc(50% - 33vw); margin-right: calc(50% - 33vw);">
   Blender 3D Renders
-  <span style="display: block; margin-top: -.38rem; width: 66vw; margin-left: calc(50% - 33vw); margin-right: calc(50% - 33vw); font-size: 1.3rem; color: #444b; font-style: italic; font-weight: 400; line-height: 1.3;">
+  <span style="display: block; margin-top: -.38rem; font-size: 1.3rem; color: #444b; font-style: italic; font-weight: 400; line-height: 1.3;">
     Analogous results can also be reproduced by me in 3ds Max and other 3D software.
   </span>
 </div>
