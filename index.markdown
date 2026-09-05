@@ -127,6 +127,15 @@
  .container-lg > h1 {
     margin-left: 17vw !important;
   }
+
+    h1:has(> a[href="https://robbysabol.github.io/"]) {
+    display: none !important;
+  }
+
+  .footer {
+    display: none !important;
+  }
+
  
   img {
     cursor: pointer;
