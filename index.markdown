@@ -56,7 +56,7 @@
     <!-- <p>Short description.</p> -->
   </div>
 
-<h2 style="grid-column: 1 / -1; font-size: 2.3rem;">Characters</h2>
+<h2 style="grid-column: 1 / -1; font-size: 2.3rem; margin-top: 2.3rem">Characters</h2>
 
   <div>
     <img src="/assets/images/Reptile_Smooth_Shading_Top_View_Textured.png" alt="Reptile_Smooth_Shading_Top_View_Textured.png" style="width:100%; border-radius:8px;">
