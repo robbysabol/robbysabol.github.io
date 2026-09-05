@@ -1,6 +1,6 @@
 # Blender 3D Renders
 
-<small>Analogous results can also be reproduced in 3ds Max and other 3D software.</small>
+<small>Analogous results can also be reproduced by me in 3ds Max and other 3D software.</small>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin: 2rem 0;">
 
