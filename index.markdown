@@ -1,5 +1,7 @@
 # Blender 3D Renders
 
+<small>Analogous results can also be reproduced in 3ds Max and other 3D software.</small>
+
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin: 2rem 0;">
 
 <h2 style="grid-column: 1 / -1; font-size: 2.3rem;">Interiors & Exteriors</h2>
