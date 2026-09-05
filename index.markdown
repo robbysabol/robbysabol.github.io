@@ -1,6 +1,6 @@
 # Blender 3D Renders
 
-<p style="font-size: 1.3rem; font-style: italic; margin-top: -0.75rem; margin-bottom: 2rem;">
+<p style="font-size: 1.3rem; color: #6666; font-style: italic; margin-top: -0.75rem; margin-bottom: 2rem;">
   Analogous results can also be reproduced by me in 3ds Max and other 3D software.
 </p>
 
