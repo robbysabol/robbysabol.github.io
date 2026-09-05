@@ -128,9 +128,10 @@
     margin-left: 17vw !important;
   } */
 
-header a[href*="github.com"] {
-  display: none !important;
-}
+  .footer {
+    display: none !important;
+  }
+
  
   img {
     cursor: pointer;
