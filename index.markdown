@@ -1,8 +1,6 @@
 # Blender 3D Renders
 
-<p style="font-size: 1.3rem; color: #6666; font-style: italic; margin-top: -0.75rem; margin-bottom: 2rem;">
-  Analogous results can also be reproduced by me in 3ds Max and other 3D software.
-</p>
+*<span style="color: #666; font-size: 1.3rem;">Analogous results can also be reproduced by me in 3ds Max and other 3D software.</span>*
 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin: 2rem 0;">
