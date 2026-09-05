@@ -122,6 +122,7 @@
 <style>
   .container-lg {
     margin-top: 0.5rem !important;
+    margin-left: 17vw !important;
   }
   
   img {
