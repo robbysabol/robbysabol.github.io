@@ -1,5 +1,9 @@
-# Blender 3D Renders
-*<span style="color: #666; font-size: 1.3rem;">Analogous results can also be reproduced by me in 3ds Max and other 3D software.</span>*
+<h1>
+  Blender 3D Renders
+  <span style="display: block; color: #666; font-size: 1.3rem; font-style: italic; font-weight: normal;">
+    Analogous results can also be reproduced by me in 3ds Max and other 3D software.
+  </span>
+</h1>
 
 
 
