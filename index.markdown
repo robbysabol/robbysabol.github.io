@@ -127,6 +127,11 @@
 .container-lg > h1 {
   margin-left: 17vw !important;
 }
+
+.container-lg > div:first-of-type {
+  margin-left: 17vw !important;
+}
+
   
   img {
     cursor: pointer;
