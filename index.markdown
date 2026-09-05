@@ -1,10 +1,7 @@
-<h1 style="font-size: 3.5rem;">
+<h1 style="font-size: 3.5rem; margin-bottom: 1.5rem;">
   Blender 3D Renders
 </h1>
-
-<br>
-
-<div style="color: #6666; font-size: 1.3rem; font-style: italic;">
+<div style="color: #666; font-size: 1.3rem; font-style: italic;">
   Analogous results can also be reproduced by me in 3ds Max and other 3D software.
 </div>
 
