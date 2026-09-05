@@ -124,8 +124,12 @@
     margin-top: 0.5rem !important;
   }
 
-  .container-lg > h1 {
+ /* .container-lg > h1 {
     margin-left: 17vw !important;
+  } */
+
+    .github {
+    display: none !important;
   }
  
   img {
