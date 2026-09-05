@@ -1,6 +1,11 @@
 # Blender 3D Renders
 
-<small>Analogous results can also be reproduced by me in 3ds Max and other 3D software.</small>
+<p style="font-size: 1.3rem; margin-top: -0.75rem; margin-bottom: 2rem;">Analogous results can also be reproduced by me in 3ds Max and other 3D software.</p>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin: 2rem 0;">
+
+<h2 style="grid-column: 1 / -1; font-size: 2.3rem;">Interiors & Exteriors</h2>
+  <div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin: 2rem 0;">
 
