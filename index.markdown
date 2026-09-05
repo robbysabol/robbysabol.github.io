@@ -124,15 +124,10 @@
     margin-top: 0.5rem !important;
   }
 
-.container-lg > h1 {
-  margin-left: 17vw !important;
-}
-
-.container-lg > div:first-of-type {
-  margin-left: 17vw !important;
-}
-
-  
+  .container-lg > h1 {
+    margin-left: 17vw !important;
+  }
+ 
   img {
     cursor: pointer;
     transition: transform 0.3s ease;
