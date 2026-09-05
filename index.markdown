@@ -120,6 +120,10 @@
 ---
 
 <style>
+  .container-lg {
+    margin-top: 0.5rem !important;
+  }
+  
   img {
     cursor: pointer;
     transition: transform 0.3s ease;
