@@ -1,9 +1,8 @@
-<h1 style="font-size: 3.5rem;">
-  Blender 3D Renders
-  <span style="display: block; margin-top: 1.5rem; color: #6666; font-size: 1.3rem; font-style: italic; font-weight: normal;">
+<div style="font-size: 3.5rem; font-weight: 700;">
+  Blender 3D Renders<span style="display: block; height: 1.5rem;"></span><span style="font-size: 1.3rem; color: #666; font-style: italic; font-weight: 400;">
     Analogous results can also be reproduced by me in 3ds Max and other 3D software.
   </span>
-</h1>
+</div>
 
 
 
