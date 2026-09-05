@@ -128,7 +128,7 @@
     margin-left: 17vw !important;
   } */
 
-a[href*="github.com"] {
+header a[href*="github.com"] {
   display: none !important;
 }
  
