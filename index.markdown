@@ -57,6 +57,17 @@
     <!-- <p>Short description.</p> -->
   </div>
 
+<!--  <h2 style="grid-column: 1 / -1; font-size: 2.3rem; margin-top: 2.3rem">Interior Walk-Throughs</h2> -->
+
+ <div>
+    <video controls style="width:100%; border-radius:8px;">
+      <source src="/assets/videos/Shelf_Dishes.mp4" type="video/mp4">
+    </video>
+    <h3>Shelf Dishes</h3>
+  </div>
+
+
+
 <h2 style="grid-column: 1 / -1; font-size: 2.3rem; margin-top: 2.3rem">Characters</h2>
 
   <div>
