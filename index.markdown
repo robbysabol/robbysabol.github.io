@@ -63,7 +63,7 @@
     <video controls style="width:100%; border-radius:8px;">
       <source src="/assets/videos/Shelf_Dishes.mp4" type="video/mp4">
     </video>
-    <h3>Shelf Dishes</h3>
+    <h3>Shelf Dishes Pan</h3>
   </div>
 
 
