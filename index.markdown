@@ -66,6 +66,13 @@
     <h3>Shelf Dishes Pan</h3>
   </div>
 
+   <div>
+    <video controls style="width:100%; border-radius:8px;">
+      <source src="/assets/videos/Dining_Room_And_Table_Orbit.mp4" type="video/mp4">
+    </video>
+    <h3>Dining Table and Room Orbit</h3>
+  </div>
+
 
 
 <h2 style="grid-column: 1 / -1; font-size: 2.3rem; margin-top: 2.3rem">Characters</h2>
