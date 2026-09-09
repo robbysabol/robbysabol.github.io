@@ -73,6 +73,13 @@
     <h3>Dining Room Table Orbit</h3>
   </div>
 
+  <div>
+    <video controls style="width:100%; border-radius:8px;">
+      <source src="/assets/videos/Classroom_Tour.mkv" type="video/mp4">
+    </video>
+    <h3>Classroom Tour</h3>
+  </div>
+
 
 
 <h2 style="grid-column: 1 / -1; font-size: 2.3rem; margin-top: 2.3rem">Characters</h2>
