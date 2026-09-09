@@ -68,9 +68,9 @@
 
    <div>
     <video controls style="width:100%; border-radius:8px;">
-      <source src="/assets/videos/Dining_Room_And_Table_Orbit.mp4" type="video/mp4">
+      <source src="/assets/videos/Dining_Room_Table_Orbit.mp4" type="video/mp4">
     </video>
-    <h3>Dining Table and Room Orbit</h3>
+    <h3>Dining Room Table Orbit</h3>
   </div>
 
 
