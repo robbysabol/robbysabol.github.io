@@ -17,8 +17,8 @@
 <h2 style="grid-column: 1 / -1; font-size: 2.3rem;">Interiors & Exteriors</h2>
 
   <div>
-    <img src="/assets/images/3ds_max_Arnold_Dining_Room_Table.jpg" alt="3ds_max_Arnold_Dining_Room_Table.jpg" style="width:100%; border-radius:8px;">
-    <h2>3ds max Arnold Dining Room Table</h2>
+    <img src="/assets/images/3ds_Max_Arnold_Dining_Room_Table.jpg" alt="3ds_max_Arnold_Dining_Room_Table.jpg" style="width:100%; border-radius:8px;">
+    <h2>3ds Max Arnold Dining Room Table</h2>
     <!-- <p>Short description.</p> -->
     <p>Importing textures into 3ds Max works: great!</p>
   </div>
