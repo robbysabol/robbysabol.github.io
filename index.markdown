@@ -18,7 +18,7 @@ title: Robby Sabol — 3D Art
   </a>
 
   <a href="/3ds-max/" class="preview-card" data-images='["/assets/images/3ds_Max_Arnold_Dining_Room_Table.jpg"]'>
-    <img class="preview-img" src="/assets/images/3ds_Max_Arnold_Dining_Room_Table.jpg" alt="3ds Max Renders">
+    <img class="preview-img" src="/assets/images/3ds_Max_Arnold_Dining_Room_Table.png" alt="3ds Max Renders">
     <h2>3ds Max Renders</h2>
     <p>Interior &amp; exterior renders, 3ds Max + Arnold.</p>
   </a>
