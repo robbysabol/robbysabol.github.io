@@ -21,13 +21,6 @@ permalink: /3ds-max/
     <h2>3ds Max Arnold Dining Room Table</h2>
   </div>
 
-  <div>
-    <video controls style="width:100%; border-radius:8px;">
-      <source src="/assets/videos/Dining_Room_Table_Orbit.mp4" type="video/mp4">
-    </video>
-    <h3>Dining Room Table Orbit</h3>
-  </div>
-
 </div>
 
 ---
