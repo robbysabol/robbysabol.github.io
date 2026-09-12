@@ -75,7 +75,7 @@ title: Robby Sabol — 3D Art
 </style>
 
 <script>
-  document.querySelectorAll('.preview-card').forEach(card => {
+/*  document.querySelectorAll('.preview-card').forEach(card => {
     const imgs = JSON.parse(card.dataset.images || '[]');
     const imgEl = card.querySelector('.preview-img');
     const original = imgEl.src;
@@ -95,5 +95,5 @@ title: Robby Sabol — 3D Art
         imgEl.src = original;
       });
     }
-  });
+  }); */
 </script>
