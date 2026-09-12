@@ -15,6 +15,13 @@
 
 
 <h2 style="grid-column: 1 / -1; font-size: 2.3rem;">Interiors & Exteriors</h2>
+
+  <div>
+    <img src="/assets/images/3ds_max_Arnold_Dining_Room_Table.jpg" alt="3ds_max_Arnold_Dining_Room_Table.jpg" style="width:100%; border-radius:8px;">
+    <h2>3ds max Arnold Dining Room Table</h2>
+    <!-- <p>Short description.</p> -->
+  </div>
+
   <div>
     <img src="/assets/images/Dining_Table_and_Room.png" alt="Dining_Table_and_Room.png" style="width:100%; border-radius:8px;">
     <h3>Dining Table and Room</h3>
