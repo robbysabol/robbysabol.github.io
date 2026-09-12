@@ -168,6 +168,10 @@
   .footer {
     display: none !important;
   }
+  
+h2 {
+  border-bottom: none !important;
+}
 
  
   img {
