@@ -17,7 +17,7 @@ permalink: /3ds-max/
 <div style="display: grid; width: 66vw; max-width: none; margin-left: calc(50% - 33vw); margin-right: calc(50% - 33vw); margin-top: 3.5rem; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem;">
 
   <div>
-    <img src="/assets/images/3ds_Max_Arnold_Dining_Room_Table.jpg" alt="3ds_max_Arnold_Dining_Room_Table.jpg" style="width:100%; border-radius:8px;">
+    <img src="/assets/images/3ds_Max_Arnold_Dining_Room_Table.jpg" alt="3ds_max_Arnold_Dining_Room_Table.png" style="width:100%; border-radius:8px;">
     <h2>3ds Max Arnold Dining Room Table</h2>
   </div>
 
