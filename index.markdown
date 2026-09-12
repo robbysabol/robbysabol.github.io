@@ -44,7 +44,7 @@ title: Robby Sabol — 3D Art
   
 .preview-card-grid {
   width: 100% !important;
-  max-width: 900px !important;
+/*  max-width: 900px !important; */
   margin: 0 auto 4rem !important;
 }
   .preview-card {
