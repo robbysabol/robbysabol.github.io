@@ -1,5 +1,5 @@
 ---
-title: Robby Sabol — 3D Art
+title: Robby Sabol — 3D Visualizations
 ---
 
 <div style="text-align:center; margin: 3rem auto 4rem; max-width: 66vw;">
