@@ -27,10 +27,6 @@ permalink: /3ds-max/
     </video>
     <h3>3ds Max Arnold Dining Room Table Orbit</h3>
   </div>
-  
----
-
----
 
 <style>
   .container-lg {
