@@ -18,7 +18,7 @@ permalink: /3ds-max/
 
   <div>
     <img src="/assets/images/3ds_Max_Arnold_Dining_Room_Table.png" alt="3ds_max_Arnold_Dining_Room_Table.png" style="width:100%; border-radius:8px;">
-    <h2>3ds Max Arnold Dining Room Table</h2>
+    <h3>3ds Max Arnold Dining Room Table</h3>
   </div>
 
   <div>
