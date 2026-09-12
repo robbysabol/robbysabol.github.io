@@ -9,7 +9,7 @@ title: Robby Sabol — 3D Art
   </div>
 </div>
 
-<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap:2rem; width:70vw; max-width:none; margin: 0 auto 4rem;">
+<div class="preview-card-grid" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap:2rem;">
 
   <a href="/blender/" class="preview-card" data-images='["/assets/images/Dining_Table_and_Room.png","/assets/images/Purple_Bedroom.png","/assets/images/Two_Boys_Textured_Smooth_Shading_Front_View.png","/assets/images/Reptile_Smooth_Shading_Top_View_Textured.png"]'>
     <img class="preview-img" src="/assets/images/Dining_Table_and_Room.png" alt="Blender Renders">
@@ -41,7 +41,12 @@ title: Robby Sabol — 3D Art
   .anchorjs-link {
     display: none !important;
   }
-
+  
+.preview-card-grid {
+  width: 100% !important;
+  max-width: 900px !important;
+  margin: 0 auto 4rem !important;
+}
   .preview-card {
     display: block;
     text-decoration: none;
