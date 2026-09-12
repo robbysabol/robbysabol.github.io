@@ -1,225 +1,94 @@
-<div style="font-size: 3.5rem; font-weight: 700; line-height: 1.1; width: 66vw; margin-left: calc(50% - 33vw); margin-right: calc(50% - 33vw);">
-  Blender 3D Renders
-  <span style="display: block; margin-top: -.38rem; font-size: 1.3rem; color: #444b; font-style: italic; font-weight: 400; line-height: 1.3;">
-    Analogous results can also be reproduced by me in 3ds Max and other 3D software.
-  </span>
-</div>
-
-
-
-
-
-
-
-<div style="display: grid; width: 66vw; max-width: none; margin-left: calc(50% - 33vw); margin-right: calc(50% - 33vw); margin-top: 3.5rem; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem;">
-
-
-<h2 style="grid-column: 1 / -1; font-size: 2.3rem;">Interiors & Exteriors</h2>
-
-  <div>
-    <img src="/assets/images/3ds_Max_Arnold_Dining_Room_Table.jpg" alt="3ds_max_Arnold_Dining_Room_Table.jpg" style="width:100%; border-radius:8px;">
-    <h2>3ds Max Arnold Dining Room Table</h2>
-    <!-- <p>Short description.</p> -->
-  </div>
-
-  <div>
-    <img src="/assets/images/Dining_Table_and_Room.png" alt="Dining_Table_and_Room.png" style="width:100%; border-radius:8px;">
-    <h3>Dining Table and Room</h3>
-    <!-- <p>Short description.</p> -->
-  </div>
-
-  <div>
-    <img src="/assets/images/Purple_Bedroom.png" alt="Purple_Bedroom.png" style="width:100%; border-radius:8px;">
-    <h3>Purple Bedroom</h3>
-    <!-- <p>Short description.</p> -->
-  </div>
-
-  <div>
-    <img src="/assets/images/Forest_Cave.png" alt="Forest_Cave.png" style="width:100%; border-radius:8px;">
-    <h3>Forest Cave</h3>
-    <!-- <p>Short description.</p> -->
-  </div>
-
-  <div>
-    <img src="/assets/images/Santas_Workshop.png" alt="Santas_Workshop.png" style="width:100%; border-radius:8px;">
-    <h3>Santa's Workshop</h3>
-    <!-- <p>Short description.</p> -->
-  </div>
-
-  <div>
-    <img src="/assets/images/School_Room.png" alt="School_Room.png" style="width:100%; border-radius:8px;">
-    <h3>School Room</h3>
-    <!-- <p>Short description.</p> -->
-  </div>
-
-  <div>
-    <img src="/assets/images/Shelf_Dishes.png" alt="Shelf_Dishes.png" style="width:100%; border-radius:8px;">
-    <h3>Shelf Dishes</h3>
-   <!-- <p>Short description.</p> -->
-  </div>
- 
-<div>
-    <img src="/assets/images/Student_Desks.png" alt="Student_Desks.png" style="width:100%; border-radius:8px;">
-    <h3>Student Desks</h3>
-    <!-- <p>Short description.</p> -->
-  </div>
-
-<!--  <h2 style="grid-column: 1 / -1; font-size: 2.3rem; margin-top: 2.3rem">Interior Walk-Throughs</h2> -->
-
- <div>
-    <video controls style="width:100%; border-radius:8px;">
-      <source src="/assets/videos/Shelf_Dishes.mp4" type="video/mp4">
-    </video>
-    <h3>Shelf Dishes Pan</h3>
-  </div>
-
-   <div>
-    <video controls style="width:100%; border-radius:8px;">
-      <source src="/assets/videos/Dining_Room_Table_Orbit.mp4" type="video/mp4">
-    </video>
-    <h3>Dining Room Table Orbit</h3>
-  </div>
-
-   <div>
-    <video controls style="width:100%; border-radius:8px;">
-      <source src="/assets/videos/Classroom_Tour.mp4" type="video/mp4">
-    </video>
-    <h3>Classroom Tour</h3>
-  </div>
-
-
-
-
-<h2 style="grid-column: 1 / -1; font-size: 2.3rem; margin-top: 2.3rem">Characters</h2>
-
-  <div>
-    <img src="/assets/images/Reptile_Smooth_Shading_Top_View_Textured.png" alt="Reptile_Smooth_Shading_Top_View_Textured.png" style="width:100%; border-radius:8px;">
-    <h3>Reptile Smooth Shading Top View Textured</h3>
-    <!-- <p>Short description.</p> -->
-  </div>
-
-  <div>
-    <img src="/assets/images/Reptile_left_top_side_view_textured.png" alt="Reptile_left_top_side_view_textured.png" style="width:100%; border-radius:8px;">
-    <h3>Reptile Left Top Side View Textured</h3>
-    <!-- <p>Short description.</p> -->
-  </div>
-
-  <div>
-    <img src="/assets/images/Reptile_right_top_side_view_textured.png" alt="Reptile_right_top_side_view_textured.png" style="width:100%; border-radius:8px;">
-    <h3>Reptile Right Top Side View Textured</h3>
-    <!-- <p>Short description.</p> -->
-  </div>
-
-  <div>
-    <img src="/assets/images/Two_Boys_Textured_Smooth_Shading_Front_View.png" alt="Two_Boys_Textured_Smooth_Shading_Front_View.png" style="width:100%; border-radius:8px;">
-    <h3>Two Boys Textured Smooth Shading Front View</h3>
-    <!-- <p>Short description.</p> -->
-  </div>
-
-  <div>
-    <img src="/assets/images/Two_Boys_Textured_Smooth_Shading_T-Pose_Front_View.png" alt="Two_Boys_Textured_Smooth_Shading_T-Pose_Front_View.png" style="width:100%; border-radius:8px;">
-    <h3>Two Boys Textured Smooth Shading T-Pose Front View</h3>
-    <!-- <p>Short description.</p> -->
-  </div>
-
-  <div>
-    <img src="/assets/images/Two_Boys_Solid_Smooth_Shading_Front_View.png" alt="Two_Boys_Solid_Smooth_Shading_Front_View.png" style="width:100%; border-radius:8px;">
-    <h3>Two Boys Solid Smooth Shading T-Pose Front View</h3>
-    <!-- <p>Short description.</p> -->
-  </div>
-
-</div>
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem; margin: 2rem 0;">
-
-  <div>
-    <video controls style="width:100%; border-radius:8px;">
-      <source src="/assets/videos/Reptile_Preview.mp4" type="video/mp4">
-    </video>
-    <h3>Reptile Preview</h3>
-  </div>
-
-  <div>
-    <video controls style="width:100%; border-radius:8px;">
-      <source src="/assets/videos/Two_Boys_Preview.mp4" type="video/mp4">
-    </video>
-    <h3>Two Boys Preview</h3>
-  </div>
-
-</div>
-
+---
+title: Robby Sabol — 3D Art
 ---
 
----
+<div style="text-align:center; margin: 3rem auto 4rem; max-width: 66vw;">
+  <div style="font-size: 3.2rem; font-weight: 700;">Robby Sabol</div>
+  <div style="font-size:1.3rem; color:#444b; font-style: italic; margin-top:.4rem;">
+    3D renders, walkthroughs, and character work.
+  </div>
+</div>
+
+<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap:2rem; width:70vw; max-width:none; margin: 0 auto 4rem;">
+
+  <a href="/blender/" class="preview-card" data-images='["/assets/images/Dining_Table_and_Room.png","/assets/images/Purple_Bedroom.png","/assets/images/Two_Boys_Textured_Smooth_Shading_Front_View.png","/assets/images/Reptile_Smooth_Shading_Top_View_Textured.png"]'>
+    <img class="preview-img" src="/assets/images/Dining_Table_and_Room.png" alt="Blender Renders">
+    <h2>Blender Renders</h2>
+    <p>Interiors, exteriors, and characters.</p>
+  </a>
+
+  <a href="/3ds-max/" class="preview-card" data-images='["/assets/images/3ds_Max_Arnold_Dining_Room_Table.jpg"]'>
+    <img class="preview-img" src="/assets/images/3ds_Max_Arnold_Dining_Room_Table.jpg" alt="3ds Max Renders">
+    <h2>3ds Max Renders</h2>
+    <p>Interior &amp; exterior renders, 3ds Max + Arnold.</p>
+  </a>
+
+</div>
 
 <style>
   .container-lg {
     margin-top: 0.5rem !important;
   }
 
- .container-lg > h1 {
-    margin-left: 17vw !important;
-  }
-
-    h1:has(> a[href="https://robbysabol.github.io/"]) {
+  h1:has(> a[href="https://robbysabol.github.io/"]) {
     display: none !important;
   }
 
   .footer {
     display: none !important;
   }
-  
-h2 {
-  border-bottom: none !important;
-}
 
- 
-  img {
-    cursor: pointer;
-    transition: transform 0.3s ease;
-  }
-  img:hover {
-    transform: scale(1.12);
-    z-index: 10;
-    position: relative;
-  }
-  #lightbox {
-    display: none;
-    position: fixed;
-    inset: 0;
-    background: rgba(0,0,0,10);
-    z-index: 999;
-    justify-content: center;
-    align-items: center;
-    cursor: zoom-out;
-  }
-  #lightbox img {
-    max-width: 85%;
-    max-height: 85%;
-  }
-
-  #lightbox img:hover {
-    transform: none;
-  }
-
-    .anchorjs-link {
+  .anchorjs-link {
     display: none !important;
   }
 
-  .disabled {
-    display: none;
+  .preview-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform .25s ease;
+  }
+  .preview-card:hover {
+    transform: translateY(-4px);
+  }
+  .preview-card img {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    border-radius: 8px;
+    display: block;
+  }
+  .preview-card h2 {
+    margin: .8rem 0 .2rem;
+  }
+  .preview-card p {
+    margin: 0;
+    color: #444b;
   }
 </style>
 
-<div id="lightbox" onclick="this.style.display='none'">
-  <img id="lightbox-img">
-</div>
-
 <script>
-  document.querySelectorAll('img').forEach(img => {
-    img.onclick = () => {
-      document.getElementById('lightbox-img').src = img.src;
-      document.getElementById('lightbox').style.display = 'flex';
-    };
+  document.querySelectorAll('.preview-card').forEach(card => {
+    const imgs = JSON.parse(card.dataset.images || '[]');
+    const imgEl = card.querySelector('.preview-img');
+    const original = imgEl.src;
+    let interval = null;
+    let i = 0;
+
+    if (imgs.length > 1) {
+      card.addEventListener('mouseenter', () => {
+        interval = setInterval(() => {
+          i = (i + 1) % imgs.length;
+          imgEl.src = imgs[i];
+        }, 900);
+      });
+      card.addEventListener('mouseleave', () => {
+        clearInterval(interval);
+        i = 0;
+        imgEl.src = original;
+      });
+    }
   });
 </script>
