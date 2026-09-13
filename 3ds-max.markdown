@@ -28,6 +28,11 @@ permalink: /3ds-max/
     <h3>3ds Max Arnold Dining Room Table Orbit</h3>
   </div>
 
+  <div>
+    <img src="/assets/images/3ds_Max_Scanline_Dining_Room_Table.png" alt="3ds_max_Scanline_Dining_Room_Table.png" style="width:100%; border-radius:8px;">
+    <h3>3ds Max Scanline Dining Room Table</h3>
+  </div>
+
 <style>
   .container-lg {
     margin-top: 0.5rem !important;
