@@ -33,6 +33,14 @@ permalink: /3ds-max/
     <h3>3ds Max Scanline Dining Room Table</h3>
   </div>
 
+  
+  <div>
+    <video controls style="width:100%; border-radius:8px;">
+      <source src="/assets/videos/3ds_Max_Redshift_Dining_Room_Table_Orbit.mp4" type="video/mp4">
+    </video>
+    <h3>3ds Max Redshift Dining Room Table Orbit</h3>
+  </div>
+
 <style>
   .container-lg {
     margin-top: 0.5rem !important;
