@@ -42,8 +42,8 @@ permalink: /3ds-max/
   </div>
 
   <div>
-    <img src="/assets/images/3ds_Max_Redshift_Classroom.png" alt="3ds_Max_Redshift_Classroom.png" style="width:100%; border-radius:8px;">
-    <h3>3ds Max Redshift Classroom</h3>
+    <img src="/assets/images/3ds_Max_Scanline_Classroom.png" alt="3ds_Max_Scanline_Classroom.png" style="width:100%; border-radius:8px;">
+    <h3>3ds Max Scanline Classroom</h3>
   </div>
 
 <style>
