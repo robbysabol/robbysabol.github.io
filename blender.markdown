@@ -20,7 +20,7 @@ permalink: /blender/
     <h3>Dining Table and Room</h3>
   </div>
 
-  <div>
+<!--  <div>
     <img src="/assets/images/Purple_Bedroom.png" alt="Purple_Bedroom.png" style="width:100%; border-radius:8px;">
     <h3>Purple Bedroom</h3>
   </div>
@@ -55,7 +55,7 @@ permalink: /blender/
       <source src="/assets/videos/Shelf_Dishes.mp4" type="video/mp4">
     </video>
     <h3>Shelf Dishes Pan</h3>
-  </div>
+  </div> -->
 
   <div>
     <video controls style="width:100%; border-radius:8px;">
@@ -64,7 +64,7 @@ permalink: /blender/
     <h3>Dining Room Table Orbit</h3>
   </div>
 
-  <div>
+<!--  <div>
     <video controls style="width:100%; border-radius:8px;">
       <source src="/assets/videos/Classroom_Tour.mp4" type="video/mp4">
     </video>
@@ -119,7 +119,7 @@ permalink: /blender/
       <source src="/assets/videos/Two_Boys_Preview.mp4" type="video/mp4">
     </video>
     <h3>Two Boys Preview</h3>
-  </div>
+  </div> -->
 
 </div>
 
