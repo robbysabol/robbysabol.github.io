@@ -125,9 +125,6 @@ permalink: /blender/
 
 </div>
 
----
-
----
 
 <style>
   .container-lg {
