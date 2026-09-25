@@ -14,7 +14,8 @@ title: Robby Sabol — 3D Visualizations
   <a href="/blender/" class="preview-card" data-images='["/assets/images/Dining_Table_and_Room.png","/assets/images/Purple_Bedroom.png","/assets/images/Two_Boys_Textured_Smooth_Shading_Front_View.png","/assets/images/Reptile_Smooth_Shading_Top_View_Textured.png"]'>
     <img class="preview-img" src="/assets/images/Dining_Table_and_Room.png" alt="Blender Renders">
     <h2>Blender Renders</h2>
-    <p>Interiors, exteriors, and characters.</p>
+    <!--<p>Interiors, exteriors, and characters.</p>-->
+    <p>Interiors &amp; exterior renders using Blender 3D</p>
   </a>
 
   <a href="/3ds-max/" class="preview-card" data-images='["/assets/images/3ds_Max_Arnold_Dining_Room_Table.jpg"]'>
