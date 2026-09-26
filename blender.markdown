@@ -8,7 +8,7 @@ permalink: /blender/
 </div>
 
 <div style="font-size: 3.5rem; font-weight: 700; line-height: 1.1; width: 66vw; margin-left: calc(50% - 33vw); margin-right: calc(50% - 33vw);">
-  Blender 3D Renders
+<!--  Blender 3D Renders -->
 </div>
 
  <div style="display: grid; width: 66vw; max-width: none; margin-left: calc(50% - 33vw); margin-right: calc(50% - 33vw); margin-top: 3.5rem; grid-template-columns: repeat(auto-fit, minmax(620px, 1fr)); gap: 1rem;">
