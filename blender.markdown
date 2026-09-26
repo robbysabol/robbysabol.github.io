@@ -13,7 +13,11 @@ permalink: /blender/
 
  <div style="display: grid; width: 66vw; max-width: none; margin-left: calc(50% - 33vw); margin-right: calc(50% - 33vw); margin-top: 3.5rem; grid-template-columns: repeat(auto-fit, minmax(620px, 1fr)); gap: 1rem;">
 
-<h2 style="grid-column: 1 / -1; font-size: 2.3rem;">Interiors & Exteriors</h2>
+<!-- <h2 style="grid-column: 1 / -1; font-size: 2.3rem;">Interiors & Exteriors</h2> -->
+<h2 style="grid-column: 1 / -1; font-size: 2.3rem;">
+  <a href="{{ page.url }}">{{ page.title }}</a>
+</h2>
+
 
   <div>
     <img src="/assets/images/Dining_Table_and_Room.png" alt="Dining_Table_and_Room.png" style="width:100%; border-radius:8px;">
