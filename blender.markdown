@@ -20,6 +20,7 @@ permalink: /blender/
     <h3>Dining Table and Room</h3>
   </div>
 
+
 <!--  <div>
     <img src="/assets/images/Purple_Bedroom.png" alt="Purple_Bedroom.png" style="width:100%; border-radius:8px;">
     <h3>Purple Bedroom</h3>
@@ -62,6 +63,11 @@ permalink: /blender/
       <source src="/assets/videos/Dining_Room_Table_Orbit.mp4" type="video/mp4">
     </video>
     <h3>Dining Room Table Orbit</h3>
+  </div>
+
+   <div>
+    <img src="/assets/images/Bicycle_Stem.png" alt="Bicycle_Stem.png" style="width:100%; border-radius:8px;">
+    <h3>Bicycle Stem</h3>
   </div>
 
 <!--  <div>
